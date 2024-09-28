@@ -1,6 +1,6 @@
 {
   "name": "@numeraswiss/ns-dateformatting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Date formatting for Webflow sites",
   "homepage": "https://github.com/rricol/ns-dateformatting",
   "license": "ISC",
